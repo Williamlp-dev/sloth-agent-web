@@ -74,7 +74,3 @@ npm run dev
 - **Biome** para linting e formatação de código
 - **TypeScript** com configurações otimizadas
 - **Vite** com alias `@/` para imports
-
-## 📝 Licença
-
-Este projeto foi desenvolvido durante um evento da Rocketseat.
